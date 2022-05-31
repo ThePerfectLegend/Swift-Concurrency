@@ -11,6 +11,7 @@
 		A8E9B8522845EA050050D492 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9B8512845EA050050D492 /* ContentView.swift */; };
 		A8E9B8542845EA080050D492 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8E9B8532845EA080050D492 /* Assets.xcassets */; };
 		A8E9B8572845EA080050D492 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8E9B8562845EA080050D492 /* Preview Assets.xcassets */; };
+		A8E9B85E2845EA440050D492 /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9B85D2845EA440050D492 /* DownloadImageAsync.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A8E9B8512845EA050050D492 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A8E9B8532845EA080050D492 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A8E9B8562845EA080050D492 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A8E9B85D2845EA440050D492 /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A8E9B84F2845EA050050D492 /* Swift_ConcurrencyApp.swift */,
 				A8E9B8512845EA050050D492 /* ContentView.swift */,
+				A8E9B85D2845EA440050D492 /* DownloadImageAsync.swift */,
 				A8E9B8532845EA080050D492 /* Assets.xcassets */,
 				A8E9B8552845EA080050D492 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8E9B8522845EA050050D492 /* ContentView.swift in Sources */,
+				A8E9B85E2845EA440050D492 /* DownloadImageAsync.swift in Sources */,
 				A8E9B8502845EA050050D492 /* Swift_ConcurrencyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
