@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A822FE662847C0050057AF03 /* DoCatchTryThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = A822FE652847C0050057AF03 /* DoCatchTryThrows.swift */; };
 		A853F7B8284A358200800AF8 /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A853F7B7284A358200800AF8 /* TaskBootcamp.swift */; };
+		A890B7F2284CB4E1008E41B0 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A890B7F1284CB4E1008E41B0 /* AsyncLet.swift */; };
 		A8DE7856284882D40023B4FB /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DE7855284882D40023B4FB /* AsyncAwait.swift */; };
 		A8E9B8502845EA050050D492 /* Swift_ConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9B84F2845EA050050D492 /* Swift_ConcurrencyApp.swift */; };
 		A8E9B8522845EA050050D492 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9B8512845EA050050D492 /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		A822FE652847C0050057AF03 /* DoCatchTryThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrows.swift; sourceTree = "<group>"; };
 		A853F7B7284A358200800AF8 /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
+		A890B7F1284CB4E1008E41B0 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		A8DE7855284882D40023B4FB /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 		A8E9B84C2845EA050050D492 /* Swift Concurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Concurrency.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8E9B84F2845EA050050D492 /* Swift_ConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_ConcurrencyApp.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				A8DE7855284882D40023B4FB /* AsyncAwait.swift */,
 				A822FE652847C0050057AF03 /* DoCatchTryThrows.swift */,
 				A853F7B7284A358200800AF8 /* TaskBootcamp.swift */,
+				A890B7F1284CB4E1008E41B0 /* AsyncLet.swift */,
 				A8E9B8532845EA080050D492 /* Assets.xcassets */,
 				A8E9B8552845EA080050D492 /* Preview Content */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				A8E9B8522845EA050050D492 /* ContentView.swift in Sources */,
 				A822FE662847C0050057AF03 /* DoCatchTryThrows.swift in Sources */,
+				A890B7F2284CB4E1008E41B0 /* AsyncLet.swift in Sources */,
 				A8DE7856284882D40023B4FB /* AsyncAwait.swift in Sources */,
 				A853F7B8284A358200800AF8 /* TaskBootcamp.swift in Sources */,
 				A8E9B85E2845EA440050D492 /* DownloadImageAsync.swift in Sources */,
